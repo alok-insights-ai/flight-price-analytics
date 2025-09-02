@@ -31,3 +31,6 @@ Using **Python, Pandas, Matplotlib, and Seaborn**, we clean and process the data
 ---
 
 ## 📂 Repository Structure
+Data : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Data_Train.xlsx
+
+
