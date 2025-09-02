@@ -39,6 +39,3 @@ Data : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Data
 
 Flight price analytics.ipynb : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Flight%20price%20analytics%20.ipynb
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/flight-price-analytics.git
