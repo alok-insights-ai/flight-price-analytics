@@ -41,7 +41,5 @@ Flight price analytics.ipynb : https://github.com/alok-insights-ai/flight-price-
 
 ## Example Visualizations
 
-![Price Distribution](plots/price_distribution.png)  
-![Popular Routes](plots/popular_routes.png)  
 
 
