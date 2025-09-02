@@ -39,3 +39,9 @@ Data : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Data
 
 Flight price analytics.ipynb : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Flight%20price%20analytics%20.ipynb
 
+## Example Visualizations
+
+![Price Distribution](plots/price_distribution.png)  
+![Popular Routes](plots/popular_routes.png)  
+
+
