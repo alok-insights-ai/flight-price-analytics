@@ -1,4 +1,9 @@
 # flight-price-analytics
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)  
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)  
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)  
+
 A data analytics project to explore and predict flight prices using Python
 
 ## 📌 
