@@ -38,6 +38,8 @@ Using **Python, Pandas, Matplotlib, and Seaborn**, we clean and process the data
 Data : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Data_Train.xlsx
 
 Flight price analytics.ipynb : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Flight%20price%20analytics%20.ipynb
+\
+requirements.txt : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/requirements.txt
 
 ## Example Visualizations
 
