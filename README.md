@@ -4,9 +4,8 @@
 ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-yellowgreen)  
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-red)  
 
-A data analytics project to explore and predict flight prices using Python
 
-## 📌 
+## Overview
 This project analyzes flight price data to uncover patterns, trends, and insights.  
 Using **Python, Pandas, Matplotlib, and Seaborn**, we clean and process the data, perform Exploratory Data Analysis (EDA), and visualize key findings to understand the factors that impact flight prices.
 
