@@ -35,11 +35,11 @@ Using **Python, Pandas, Matplotlib, and Seaborn**, we clean and process the data
 ---
 
 ## 📂 Repository Structure
-Data : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Data_Train.xlsx
+[Data](https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Data_Train.xlsx)
 
-Flight price analytics.ipynb : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Flight%20price%20analytics%20.ipynb
+[Flight price analytics.ipynb](https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Flight%20price%20analytics%20.ipynb)
 
-requirements.txt : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/requirements.txt
+[requirements.txt](https://github.com/alok-insights-ai/flight-price-analytics/blob/main/requirements.txt)
 
 ## Example Visualizations
 https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Screenshot%202025-09-02%20213414.png?raw=true
