@@ -42,6 +42,8 @@ Flight price analytics.ipynb : https://github.com/alok-insights-ai/flight-price-
 requirements.txt : https://github.com/alok-insights-ai/flight-price-analytics/blob/main/requirements.txt
 
 ## Example Visualizations
-
+https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Screenshot%202025-09-02%20213414.png?raw=true
+https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Screenshot%202025-09-02%20213432.png?raw=true
+https://github.com/alok-insights-ai/flight-price-analytics/blob/main/Screenshot%202025-09-02%20213450.png?raw=true
 
 
